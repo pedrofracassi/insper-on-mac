@@ -8,9 +8,12 @@ const themeConfig: DocsThemeConfig = {
   editLink: {
     text: 'Edite esta página no GitHub',
   },
+  docsRepositoryBase: 'https://github.com/pedrofracassi/insper-on-mac/edit/main',
   feedback: {
     content: '',
   },
+  primaryHue: 	350,
+  primarySaturation: 89,
   gitTimestamp: true,
   footer: {
     text: 'MIT 2024 © Insper on Mac',
