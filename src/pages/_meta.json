@@ -1,16 +1,6 @@
 {
-  "index": {
-    "title": "Página Inicial",
-    "type": "page",
-    "display": "hidden"
-  },
+  "index": "Página Inicial",
   "geral": "Informações Gerais",
-  "engenharias": {
-    "title": "Eng. da Computação",
-    "type": "page"
-  },
-  "ccomp": {
-    "title": "Ciência da Computação",
-    "type": "page"
-  }
+  "engenharias": "Eng. da Computação",
+  "ccomp": "Ciência da Computação"
 }
